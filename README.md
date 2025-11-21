@@ -1,1 +1,1 @@
-First attempt at the Cyfrin/Patrick Collins oundry FundMe example.
+First attempt at the Cyfrin/Patrick Collins Foundry FundMe example.
